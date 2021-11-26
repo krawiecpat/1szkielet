@@ -1,0 +1,39 @@
+body {
+    background-color: navy;
+}
+
+nav.main-navigation>ul.menu-list>div>li>a {
+    color: black;
+
+}
+
+body>div {
+    background-color: blue;
+    width: 1300px;
+    height: 1500px;
+    margin-left: 100px;
+}
+
+div.square {
+    background-color: white;
+    width: 400px;
+    height: 50px;
+    float: left;
+    margin-left: 5px;
+}
+
+div.kwadrat {
+    background-color: white;
+    width: 400px;
+    height: 50px;
+    float: left;
+    margin-left: 5px;
+}
+
+div.ostatni {
+    background-color: white;
+    width: 400px;
+    height: 50px;
+    float: left;
+    margin-left: 5px;
+}
