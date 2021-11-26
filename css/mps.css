@@ -2,7 +2,7 @@ body {
     background-color: navy;
 }
 
-nav.main-navigation>ul.menu-list>div>li>a {
+nav.main-navigation>div>a {
     color: black;
 
 }
@@ -19,7 +19,8 @@ div.square {
     width: 400px;
     height: 50px;
     float: left;
-    margin-left: 5px;
+    margin-left:40px;
+    margin-top:15px;
 }
 
 div.kwadrat {
@@ -27,7 +28,8 @@ div.kwadrat {
     width: 400px;
     height: 50px;
     float: left;
-    margin-left: 5px;
+    margin-left:5px;
+    margin-top:15px;
 }
 
 div.ostatni {
@@ -36,4 +38,5 @@ div.ostatni {
     height: 50px;
     float: left;
     margin-left: 5px;
+    margin-top:15px;
 }
